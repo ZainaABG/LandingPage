@@ -13,6 +13,20 @@ A responsive login and signup page built using:
 - Custom styling
 - Social media buttons
 
+- ## Built With
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Google Fonts
+
 ## Preview
 
+### Sign In Page
+![Sign In](screenshots/login-page.png)
+
+### Sign Up Page
+
+![Sign Up](screenshots/signup-page.png)
 
