@@ -24,9 +24,9 @@ A responsive login and signup page built using:
 ## Preview
 
 ### Sign In Page
-![Sign In](screenshots/login-page.png)
+![Sign In](screenshots/Sign-in.png)
 
 ### Sign Up Page
 
-![Sign Up](screenshots/signup-page.png)
+![Sign Up](screenshots/sign-up.png)
 
