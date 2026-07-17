@@ -11,7 +11,7 @@ A responsive login and signup page built using:
 - Animated sign in/sign up transition
 - Responsive layout
 - Custom styling
-- Social media buttons
+- Social media buttons 
 
 - ## Built With
 
