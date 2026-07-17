@@ -6,6 +6,9 @@ A responsive login and signup page built using:
 - CSS
 - JavaScript
 
+## Demo
+https://zainaabg.github.io/LandingPage/
+
 ## Features
 
 - Animated sign in/sign up transition
